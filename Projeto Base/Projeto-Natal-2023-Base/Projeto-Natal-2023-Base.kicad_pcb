@@ -1977,6 +1977,11 @@
       (net 2 "GND") (pinfunction "-") (pintype "passive") (tstamp 09a4c9ef-4236-4f32-9c78-702fd46daad4))
     (pad "2" smd rect (at 1.95 -1.65 180) (size 1.3 0.9) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 37 "Net-(BZ1-+)") (pinfunction "+") (pintype "passive") (tstamp 811abda6-9a0a-4493-9591-9880a3628ca8))
+    (model "${KIPRJMOD}/3D/MLT-5030.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "B.Cu")
@@ -2906,8 +2911,8 @@
         )
       )
     )
-    (model "${KICAD7_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Multicomp_BC-2001_1x2032.wrl"
-      (offset (xyz 0 0 0))
+    (model "${KIPRJMOD}/3D/BC-2001.stp"
+      (offset (xyz 0 -10.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -3474,7 +3479,12 @@
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp ea937d49-98b5-4645-a9ce-6c8eba1dfa4d))
     (pad "2" smd rect (at 3.975 -2.25 270) (size 1.55 1.3) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 9008b480-af66-490d-a6e2-d4b3d532a367))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_PUSH_6mm_H9.5mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_PUSH_6mm_H9.5mm.wrl" hide
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model ":KICAD7_3DMODEL_DIR:Button_Switch_SMD.3dshapes/SW_SPST_PTS645.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5659,7 +5669,7 @@
       )
     )
   )
-  (zone (net 2) (net_name "GND") (layer "B.Cu") (tstamp ebe0d2a4-d91e-428a-bba3-8f1f5b900e14) (hatch edge 0.5)
+  (zone locked (net 2) (net_name "GND") (layer "B.Cu") (tstamp ebe0d2a4-d91e-428a-bba3-8f1f5b900e14) (hatch edge 0.5)
     (priority 1)
     (connect_pads yes (clearance 0.3048))
     (min_thickness 0.25) (filled_areas_thickness no)
