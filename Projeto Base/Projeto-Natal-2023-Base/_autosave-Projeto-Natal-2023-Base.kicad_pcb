@@ -134,6 +134,7 @@
     (at 107.95 133.1754 -157)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C72037")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -144,7 +145,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2bccc221-cec5-4c3a-bd6f-043eadf7411c)
     )
-    (fp_text value "LED" (at 0 1.65 23) (layer "F.Fab") hide
+    (fp_text value "e17-21SURC/S530-A3/TR8" (at 0 1.65 23) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 308dad51-e937-43fe-8558-b3f478a6763a)
     )
@@ -192,6 +193,7 @@
     (at 124.841 78.74 -56)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C72037")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -202,7 +204,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4868de87-e6f5-488f-a1f4-d7b4a09b1f8c)
     )
-    (fp_text value "LED" (at 0 1.65 124) (layer "F.Fab") hide
+    (fp_text value "e17-21SURC/S530-A3/TR8" (at 0 1.65 124) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 786fbe9e-0267-412b-a201-e9bc70db4d00)
     )
@@ -275,6 +277,7 @@
     (at 63.2968 78.5368 56)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C72037")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -285,7 +288,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0b295449-6764-408f-bc93-b8297a1ca45d)
     )
-    (fp_text value "LED" (at 0 1.65 56) (layer "F.Fab") hide
+    (fp_text value "e17-21SURC/S530-A3/TR8" (at 0 1.65 56) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bac3a285-61ff-417f-b1cf-7c4fb07c4681)
     )
@@ -358,6 +361,7 @@
     (at 57.0992 99.0115 90)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C72037")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -368,7 +372,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9985c29d-4385-49ae-ab5f-efda14d8f582)
     )
-    (fp_text value "LED" (at 0 1.65 90) (layer "F.Fab") hide
+    (fp_text value "e17-21SURC/S530-A3/TR8" (at 0 1.65 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c35e6c06-8605-47a3-9830-7f54786454ec)
     )
@@ -416,6 +420,7 @@
     (at 130.9116 99.0092 -90)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C72037")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -426,7 +431,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e4746734-16c9-422b-a6d3-756e5b9567e7)
     )
-    (fp_text value "LED" (at 0 1.65 90) (layer "F.Fab") hide
+    (fp_text value "e17-21SURC/S530-A3/TR8" (at 0 1.65 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3afd2d02-df28-4bb7-a954-3ed8c086b29b)
     )
@@ -474,6 +479,7 @@
     (at 120.0912 125.095 -135)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C84260")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -484,7 +490,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dd90ff37-9b32-4cc4-9bc8-577beb6cb6cf)
     )
-    (fp_text value "LED" (at 0 1.65 45) (layer "F.Fab") hide
+    (fp_text value "NCD0805G1" (at 0 1.65 45) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c8bc228e-080f-4554-8136-14344cd81d9d)
     )
@@ -532,6 +538,7 @@
     (at 114.427 129.7178 -146)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C108412")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -542,7 +549,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 70c5b90f-94cf-4102-a56a-b16ac68be98b)
     )
-    (fp_text value "LED" (at 0 1.65 34) (layer "F.Fab") hide
+    (fp_text value "D-B080508B1-KS2" (at 0 1.65 34) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 58d58b87-942e-48f1-8bb3-9ed1eeb945e0)
     )
@@ -590,6 +597,7 @@
     (at 101.3206 135.1534 -169)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C84260")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -600,7 +608,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3afd6e52-ed95-4e31-856c-9286a67e7cc7)
     )
-    (fp_text value "LED" (at 0 1.65 11) (layer "F.Fab") hide
+    (fp_text value "NCD0805G1" (at 0 1.65 11) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4f1bd8a4-2364-4bf3-bbd7-83e5cd7e15fb)
     )
@@ -648,6 +656,7 @@
     (at 130.1242 106.5276 -101)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C84260")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -658,7 +667,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dda5183c-6320-4029-9b5f-2f2ef41f7a54)
     )
-    (fp_text value "LED" (at 0 1.65 79) (layer "F.Fab") hide
+    (fp_text value "NCD0805G1" (at 0 1.65 79) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9c23a124-1708-4f8f-8e46-f87b0b26c4c7)
     )
@@ -706,6 +715,7 @@
     (at 120.0912 72.898 -45)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C108412")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -716,7 +726,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d7b58b86-5f92-4ae2-b004-a26f6897d1a6)
     )
-    (fp_text value "LED" (at 0 1.65 135) (layer "F.Fab") hide
+    (fp_text value "D-B080508B1-KS2" (at 0 1.65 135) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 228b4a9d-95a8-40bb-8900-dd9a61167785)
     )
@@ -764,6 +774,7 @@
     (at 67.7926 73.025 45)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C108412")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -774,7 +785,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2a4b5213-7201-4ac4-8cfb-e8228f1501fe)
     )
-    (fp_text value "LED" (at 0 1.65 45) (layer "F.Fab") hide
+    (fp_text value "D-B080508B1-KS2" (at 0 1.65 45) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dc8598d3-7160-4af9-bca6-ac0de2afb467)
     )
@@ -822,6 +833,7 @@
     (at 114.4778 68.3006 -34)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C84260")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -832,7 +844,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 80e1c4d5-ce02-456e-82bb-f8dfbb85e1d6)
     )
-    (fp_text value "LED" (at 0 1.65 146) (layer "F.Fab") hide
+    (fp_text value "NCD0805G1" (at 0 1.65 146) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f2e70d90-808b-459a-96e5-31fbd99dcd1a)
     )
@@ -880,6 +892,7 @@
     (at 101.3968 62.8396 -11)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C108412")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -890,7 +903,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6fa8c202-e1b7-4b18-8d06-7af8457c4432)
     )
-    (fp_text value "LED" (at 0 1.65 169) (layer "F.Fab") hide
+    (fp_text value "D-B080508B1-KS2" (at 0 1.65 169) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3c4c90c1-df96-4554-801a-65d34c9c479b)
     )
@@ -971,6 +984,7 @@
     (at 59.944 113.1824 113)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C108412")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -981,7 +995,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp da07cc9d-bfd3-4d0d-a2aa-beb0a665e5dd)
     )
-    (fp_text value "LED" (at 0 1.65 113) (layer "F.Fab") hide
+    (fp_text value "D-B080508B1-KS2" (at 0 1.65 113) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 420ba2ed-8246-49d8-863c-a6eda706c273)
     )
@@ -1029,6 +1043,7 @@
     (at 128.0922 113.1062 -112)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C108412")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -1039,7 +1054,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 576e598e-365e-4851-b6c9-1551c415bb62)
     )
-    (fp_text value "LED" (at 0 1.65 68) (layer "F.Fab") hide
+    (fp_text value "D-B080508B1-KS2" (at 0 1.65 68) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a0aef05e-547d-4f1e-a952-7ea789ade1a3)
     )
@@ -1087,6 +1102,7 @@
     (at 86.6648 62.8396 11)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C108412")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -1097,7 +1113,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4937c74d-188a-49e0-9c21-8d26aee1b14b)
     )
-    (fp_text value "LED" (at 0 1.65 11) (layer "F.Fab") hide
+    (fp_text value "D-B080508B1-KS2" (at 0 1.65 11) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp be0a71bb-5ac0-4058-af3f-806c1b2833b0)
     )
@@ -1145,6 +1161,7 @@
     (at 79.9338 64.897 23)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C72037")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -1155,7 +1172,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 36b022dc-63b6-47c9-9e83-d1c6fbea12f0)
     )
-    (fp_text value "LED" (at 0 1.65 23) (layer "F.Fab") hide
+    (fp_text value "e17-21SURC/S530-A3/TR8" (at 0 1.65 23) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 91a5431e-c1d8-4462-82ff-b6dd91d1fafd)
     )
@@ -1203,6 +1220,7 @@
     (at 67.9196 125.0925 135)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C84260")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -1213,7 +1231,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d8ea7c39-98a9-4f8e-9607-98f9db84eff9)
     )
-    (fp_text value "LED" (at 0 1.65 135) (layer "F.Fab") hide
+    (fp_text value "NCD0805G1" (at 0 1.65 135) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 45d6534d-3802-4cd1-8c1a-58519aea4121)
     )
@@ -1261,6 +1279,7 @@
     (at 73.8632 68.072 34)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C84260")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -1271,7 +1290,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 270e383f-672c-4fbf-a342-35144a196d0b)
     )
-    (fp_text value "LED" (at 0 1.65 34) (layer "F.Fab") hide
+    (fp_text value "NCD0805G1" (at 0 1.65 34) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1993bec8-0384-4602-b0ac-af925f2916bf)
     )
@@ -1319,6 +1338,7 @@
     (at 63.3984 119.5832 124)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C72037")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -1329,7 +1349,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp be21cf6c-5b52-4092-a73a-1ebc6a134696)
     )
-    (fp_text value "LED" (at 0 1.65 124) (layer "F.Fab") hide
+    (fp_text value "e17-21SURC/S530-A3/TR8" (at 0 1.65 124) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7d0d6667-37aa-45e9-9ec1-50779dd45d99)
     )
@@ -1377,6 +1397,7 @@
     (at 57.8358 91.5924 79)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C108412")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -1387,7 +1408,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 337b91b9-b18f-45e7-8c89-87e5046f04fc)
     )
-    (fp_text value "LED" (at 0 1.65 79) (layer "F.Fab") hide
+    (fp_text value "D-B080508B1-KS2" (at 0 1.65 79) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 40170102-9c6a-4079-964f-48445decc488)
     )
@@ -1435,6 +1456,7 @@
     (at 124.7394 119.4308 -124)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C72037")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -1445,7 +1467,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp aecd6d59-cca6-4ffc-8a4d-bd065a1bc797)
     )
-    (fp_text value "LED" (at 0 1.65 56) (layer "F.Fab") hide
+    (fp_text value "e17-21SURC/S530-A3/TR8" (at 0 1.65 56) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cf7e6809-0255-4552-a8ae-862807595536)
     )
@@ -1493,6 +1515,7 @@
     (at 107.8738 64.7954 -22)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C72037")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -1503,7 +1526,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e97f8f6b-75a8-4171-a756-a8a68aa851d4)
     )
-    (fp_text value "LED" (at 0 1.65 158) (layer "F.Fab") hide
+    (fp_text value "e17-21SURC/S530-A3/TR8" (at 0 1.65 158) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9a0b5cff-f8d4-4821-b8c1-92edd7e6f3bb)
     )
@@ -1551,6 +1574,7 @@
     (at 57.8307 106.3244 101)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C84260")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -1561,7 +1585,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 04fa39df-9fc7-4940-96a1-878d06ef51d0)
     )
-    (fp_text value "LED" (at 0 1.65 101) (layer "F.Fab") hide
+    (fp_text value "NCD0805G1" (at 0 1.65 101) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 886e165d-8934-4327-bd1f-4a3be7208375)
     )
@@ -1609,6 +1633,7 @@
     (at 59.7694 85.217 68)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C84260")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -1619,7 +1644,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 63a280c0-5d9c-4290-9227-6bb68dbbe734)
     )
-    (fp_text value "LED" (at 0 1.65 68) (layer "F.Fab") hide
+    (fp_text value "NCD0805G1" (at 0 1.65 68) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 262c14c1-dfae-4e20-b37d-b91d13ede68d)
     )
@@ -14724,6 +14749,7 @@
     (at 73.66 129.7686 146)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C108412")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -14734,7 +14760,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bac27db1-323d-4cad-9286-958c5528b9d9)
     )
-    (fp_text value "LED" (at 0 1.65 146) (layer "F.Fab") hide
+    (fp_text value "D-B080508B1-KS2" (at 0 1.65 146) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c4e1c111-667e-46ae-abd9-1ca906db54b6)
     )
@@ -14782,6 +14808,7 @@
     (at 128.1176 84.9376 -67)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C84260")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -14792,7 +14819,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 14e7f1c4-2354-4a03-875b-f525d020fcab)
     )
-    (fp_text value "LED" (at 0 1.65 113) (layer "F.Fab") hide
+    (fp_text value "NCD0805G1" (at 0 1.65 113) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 01cfe0ba-28af-4fa2-a232-f05c7fa1ebb5)
     )
@@ -14840,6 +14867,7 @@
     (at 86.487 135.128 169)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C84260")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -14850,7 +14878,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp da9454a3-97c3-4eb0-8784-5278de1f49a5)
     )
-    (fp_text value "LED" (at 0 1.65 169) (layer "F.Fab") hide
+    (fp_text value "NCD0805G1" (at 0 1.65 169) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7fdda095-1e17-4ced-a90c-8f193f24bd48)
     )
@@ -14898,6 +14926,7 @@
     (at 130.175 91.7194 -79)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C108412")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -14908,7 +14937,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp eba1e803-6b80-41ce-8ccc-d2ad9136bc10)
     )
-    (fp_text value "LED" (at 0 1.65 101) (layer "F.Fab") hide
+    (fp_text value "D-B080508B1-KS2" (at 0 1.65 101) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6c191351-8f1f-475a-8af6-1230f528896c)
     )
@@ -14956,6 +14985,7 @@
     (at 80.3148 133.2706 158)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
+    (property "LCSC" "C72037")
     (property "Sheetfile" "Projeto-Natal-2023-Base.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Light emitting diode")
@@ -14966,7 +14996,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 44f01478-14a5-45da-a078-ecc0b403800e)
     )
-    (fp_text value "LED" (at 0 1.65 158) (layer "F.Fab") hide
+    (fp_text value "e17-21SURC/S530-A3/TR8" (at 0 1.65 158) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 70e464d1-94b9-46ee-8c26-1fa1a1781de2)
     )
